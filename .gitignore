@@ -1,0 +1,8 @@
+target/
+.classpath
+.project
+.settings
+.springBeans
+.mvn
+logs/
+.DS_Store
